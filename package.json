@@ -1,15 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "alex",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/bcrhbrhcdb/please-work-free.git"
-	}
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.7",
+    "postgres": "^3.4.4"
+  }
 }
